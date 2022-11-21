@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+    margin:0;
+    background-color:#131a27;
+}
+
+.outerdiv{
+background-color: red;
+width: 450px;
+height: 500px;
+margin:auto;
+position:relative;
+top:100px;
+border-radius:10px;
+
+}
+.InputArea{
+    display:block;
+    margin: auto 5%;
+    background-color:darkslategray;
+    border:solid black; 
+    width:90%;
+    height: 350px;
+    position:absolute;
+    top:130px;
+    border-radius:10px;
+
+}
+.textview{
+     width: 93%;
+     position:absolute;
+     left:10px;
+     height:75px;
+     background-color:darkslategray;
+     border-radius:none;
+    font-size: 50px;
+    color:white;
+}
+.OutputScreen{
+background-color: yellow;
+width:90%;
+height:100px;
+margin: auto 5%;
+position:absolute;
+top:10px;
+border-radius:10px;
+}
+.InnerdivOfCansole{
+    background-color:darkslategray;
+    width:95%;
+    height:80px;
+    margin: 10px auto ;
+    border-radius:10px;
+}
+.inputkeys{
+        width: 20%;  
+        height: 50px;  
+        font-size: 25px;  
+        margin: 2px;  
+        cursor: pointer;  
+        background-color:transparent;
+        color: white;  
+}
+
+.inputkeys:hover{
+    background-color:black;
+}
+.btnSection{
+    height:300px;
+    width:90%;
+    margin: 10px auto;
+}
+.BtnMargin{
+    margin:7.37px;
+    
+} 
+button{
+    color: white;
+} 
+.BtnC{
+    color:red;
+}
+.Evaluate{
+    width:45%;
+}
+ 
+
